@@ -23,7 +23,7 @@ La deuxième partie du document est une analyse de différents concepts et actio
 La troisième partie du document s'attache à recenser les bonnes pratiques reconnaues en matière de dénomination et d'adressage. Ces recommandations sont à la fois méthodologiques, organisationelles et techniques.
 
 
-Télécharger [« Voies et adresses : les procédures légales et les bonnes pratiques en vigueur - version 1.0 octobre 2015 »](files/AITF&#32;SIG&#32;Topo&#32;-&#32;Adresse&#32;-&#32;Les&#32;procédures&#32;légales&#32;et&#32;les&#32;bonnes&#32;pratiques&#32;en&#32;vigueur&#32;v&#32;1.0.pdf)
+Télécharger [« Voies et adresses : les procédures légales et les bonnes pratiques en vigueur - version 1.0 octobre 2015 »](files/AITF_SIG_Topo_Adresse_Les_procedures_legales_et_les_bonnes_pratiques_en_vigueur_v1.0.pdf)
 
 
 
