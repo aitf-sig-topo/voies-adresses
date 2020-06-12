@@ -1,15 +1,12 @@
-![logo AITF SIG Topo](files/logo_aitf_sig_topo.png)
+[![logo AITF SIG Topo](files/logo_aitf_sig_topo.png)](https://www.aitf.fr/groupe-travail/sig-topographie)
 
 ## À propos de cette page
 
 Vous trouverez ici des ressources de référence relatives à la thématique voies et adresses. Ces ressources ont été créées pour les besoins des géomaticiens (et des techniciens dans leur ensembles) des collectivités territoriales qui ont besoin de gérer des données voies-adresses.
 
-Le groupe de travail produisant ces ressources é été créé intialement en juin 2015 pour accompagner le projet de Base Adresse Nationale (BAN).
+Le groupe de travail produisant ces ressources a été créé intialement en juin 2015 pour accompagner le projet de Base Adresse Nationale (BAN).
 
 
-## Des voies et des adresses
-
-…
 
 
 
@@ -23,7 +20,9 @@ La deuxième partie du document est une analyse de différents concepts et actio
 La troisième partie du document s'attache à recenser les bonnes pratiques reconnaues en matière de dénomination et d'adressage. Ces recommandations sont à la fois méthodologiques, organisationelles et techniques.
 
 
-Télécharger [« Voies et adresses : les procédures légales et les bonnes pratiques en vigueur - version 1.0 octobre 2015 »](files/AITF_SIG_Topo_Adresse_Les_procedures_legales_et_les_bonnes_pratiques_en_vigueur_v1.0.pdf)
+Télécharger le document « Voies et adresses : les procédures légales et les bonnes pratiques en vigueur - version 1.0 octobre 2015 »
+[![](files/application-pdf.png)](files/AITF_SIG_Topo_Adresse_Les_procedures_legales_et_les_bonnes_pratiques_en_vigueur_v1.0.pdf)
+
 
 
 
@@ -38,17 +37,29 @@ En 2020 l’informatisation étant systématique, ces informations voies-adres
 Ce document est le fruit d'une collaboration entre l'[AITF](https://www.aitf.fr/) et l'[AFIGESE](https://afigese.fr) et a été élaboré dans le cadre de l'appel à contribution de [France Urbaine](https://franceurbaine.org/) afin de participer à la concertation sur [la future loi « 3D : différenciation, décentralisation, déconcentration »](https://www.cohesion-territoires.gouv.fr/en/node/44411) qui sera examinée par le parlement à l'automne 2020.
 
 
-Télécharger [« Contribution dans le cadre de la concertation sur la future loi 3D : différenciation, décentralisation, déconcentration - version 1.3 mars 2020 »](files/Proposition_de_modernisation_de_la_reglementation_concernant_la_denomination_des_voies_et_l_adressage_v1.3.pdf)
-
-
+Télécharger le document « Contribution dans le cadre de la concertation sur la future loi 3D : différenciation, décentralisation, déconcentration - version 1.3 mars 2020 »
+[![](files/application-pdf.png)](files/Proposition_de_modernisation_de_la_reglementation_concernant_la_denomination_des_voies_et_l_adressage_v1.3.pdf)
 
 
 ## Format Base Adresse Locale (BAL)
 
-…
+Depuis 2016 ce modèle de données ultra simple permet aux collectivités locales de diffuser des données voies-adresses en *open data*. Si les voies n'ont pas de géométrie, les adresses disposent d'attribut décrivant des coordonnées géographiques.
+
+Ces données voies-adresses libres (car publiées sous la Licence Ouverte 2.0) sont destinées à être répertoriées sur [le site data.gouv.fr](https://www.data.gouv.fr/fr/datasets/?tag=bal). Une fois sur data.gouv.fr, elles sont automatiquement traitées afin d'alimenter le fichier "Adresses" qui est le regroupement de toutes [les bases adresses locales](https://adresse.data.gouv.fr/bases-locales) certifiés par les communes.
+[Un tableau de bord ](https://adresse.data.gouv.fr/bases-locales)recense l'avancement de la disponibilité des Bases Adresses Locales sur le territoire métropolitain.
+
+Noter qu'un [validateur de fichier BAL](https://github.com/etalab/bal/) a été créé afin de vérifier la validité et la conformité des fichiers avant leur diffusion.
+
+Enfin, [un éditeur en ligne](https://adresse.data.gouv.fr/bases-locales) vous permet d'initialiser puis de gérer directement vos voies et vos adresses. Cet outil léger peut largement suffire à des communes modestes non équipées de Systèmes d'Information Géographiques.
 
 
-## Aide, support, contact
+Télécharger le document « Proposition d’un modèle de données simple visant à alimenter la BAN par des fichiers - version 1.1 février 2016 »
+[![](files/application-pdf.png)]
+(files/AITF_SIG_Topo_Format_Base_Adresse_Locale_v1.1.pdf)
+
+
+
+## Contact
 
 Maël REBOUX (Ville de Rennes / Rennes Métropole)
 
