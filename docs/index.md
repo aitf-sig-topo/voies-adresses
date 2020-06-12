@@ -2,7 +2,7 @@
 
 ## À propos de cette page
 
-Vous trouverez ici des ressources de références relatives à la thématique voies et adresses. Ces ressources ont été créées pour les besoins des géomaticiens (et des techniciens dans leur ensembles) des collectivités territoriales qui ont besoin de gérer des données voies-adresses.
+Vous trouverez ici des ressources de référence relatives à la thématique voies et adresses. Ces ressources ont été créées pour les besoins des géomaticiens (et des techniciens dans leur ensembles) des collectivités territoriales qui ont besoin de gérer des données voies-adresses.
 
 Le groupe de travail produisant ces ressources é été créé intialement en juin 2015 pour accompagner le projet de Base Adresse Nationale (BAN).
 
