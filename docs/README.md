@@ -9,7 +9,7 @@ Le groupe de travail produisant ces ressources é été créé intialement en ju
 
 ## Des voies et des adresses
 
-[def voies et adresses]
+…
 
 
 
@@ -23,7 +23,7 @@ La deuxième partie du document est une analyse de différents concepts et actio
 La troisième partie du document s'attache à recenser les bonnes pratiques reconnaues en matière de dénomination et d'adressage. Ces recommandations sont à la fois méthodologiques, organisationelles et techniques.
 
 
-Télécharger "Voies et adresses : les procédures légales et les bonnes pratiques en vigueur - version 1.1 juin 2020" (PDF)
+Télécharger [« Voies et adresses : les procédures légales et les bonnes pratiques en vigueur - version 1.0 octobre 2015 »](AITF SIG Topo - Adresse - Les procédures légales et les bonnes pratiques en vigueur v 1.0.pdf)
 
 
 
@@ -35,10 +35,10 @@ Les propositions contenues dans la dernière partie de ce document concourent a
 
 En 2020 l’informatisation étant systématique, ces informations voies-adresses se doivent d’aboutir à la diffusion en open-data de ces base d’adresses locales, prérequis à la constitution de toute base de donnée agrégée de niveau national.
 
-Ce document est le fruit d'une collaboration entre l'AITF et l'AFIGESE et a été élaboré dans le cadre de l'appel à contribution de France Urbaine afin de participer à la concertation sur la future loi « 3D : différenciation, décentralisation, déconcentration » qui sera examinée par le parlement à l'automne 2020.
+Ce document est le fruit d'une collaboration entre l'[AITF](https://www.aitf.fr/) et l'[AFIGESE](https://afigese.fr) et a été élaboré dans le cadre de l'appel à contribution de [France Urbaine](https://franceurbaine.org/) afin de participer à la concertation sur [la future loi « 3D : différenciation, décentralisation, déconcentration »](https://www.cohesion-territoires.gouv.fr/en/node/44411) qui sera examinée par le parlement à l'automne 2020.
 
 
-Télécharger Contribution dans le cadre de la concertation sur la future loi « 3D : différenciation, décentralisation, déconcentration » - version 1.3 mars 2020" (PDF)
+Télécharger [« Contribution dans le cadre de la concertation sur la future loi 3D : différenciation, décentralisation, déconcentration - version 1.3 mars 2020 »](Proposition de modernisation de la réglementation concernant la dénomination des voies et l’adressage v1.3.pdf)
 
 
 
@@ -51,5 +51,7 @@ Télécharger Contribution dans le cadre de la concertation sur la future loi «
 ## Aide, support, contact
 
 Maël REBOUX (Ville de Rennes / Rennes Métropole)
+
 Chantal ARRUTI (Ville de Bayonne / Communauté d'agglomération du Pays Basque)
 
+Nous contacter : [adm.sigtopo@gmail.com]()
