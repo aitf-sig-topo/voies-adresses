@@ -54,8 +54,7 @@ Enfin, [un éditeur en ligne](https://adresse.data.gouv.fr/bases-locales) vous p
 
 
 Télécharger le document « Proposition d’un modèle de données simple visant à alimenter la BAN par des fichiers - version 1.1 février 2016 »
-[![](files/application-pdf.png)]
-(files/AITF_SIG_Topo_Format_Base_Adresse_Locale_v1.1.pdf)
+[![](files/application-pdf.png)](files/AITF_SIG_Topo_Format_Base_Adresse_Locale_v1.1.pdf)
 
 
 
