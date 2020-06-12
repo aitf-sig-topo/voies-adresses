@@ -1,123 +1,57 @@
----
-layout: default
----
+![logo AITF SIG Topo](logo_aitf_sig_topo.png)
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## À propos de cette page
 
-[Link to another page](./another-page.html).
+Vous trouverez ici des ressources de références relatives à la thématique voies et adresses. Ces ressources ont été créées pour les besoins des géomaticiens (et des techniciens dans leur ensembles) des collectivités territoriales qui ont besoin de gérer des données voies-adresses.
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+Le groupe de travail produisant ces ressources é été créé intialement en juin 2015 pour accompagner le projet de Base Adresse Nationale (BAN).
 
 
-### Definition lists can be used with HTML syntax.
+## Des voies et des adresses
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+…
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
-```
+
+## Les procédures légales et les bonnes pratiques en vigueur
+
+Ce document essaie d'être le document le plus complet en ce qui concerne le référencement des textes réglementaires (ou quasi réglementaires) qui s'imposent aux collectivités territoriales sur le sujet des voies et des adresses.
+La première partie recense donc les textes réglementaire (lois, décret, etc) ainsi que la jurisprudence administrative qui modèle le droit en la matière.
+
+La deuxième partie du document est une analyse de différents concepts et actions qui sont de la responsabilité des communes sur le sujet de la dénomination des voies de de l'adressage. Des propositions d'évolutions concluent cette partie.
+
+La troisième partie du document s'attache à recenser les bonnes pratiques reconnaues en matière de dénomination et d'adressage. Ces recommandations sont à la fois méthodologiques, organisationelles et techniques.
+
+
+Télécharger [« Voies et adresses : les procédures légales et les bonnes pratiques en vigueur - version 1.0 octobre 2015 »](AITF SIG Topo - Adresse - Les procédures légales et les bonnes pratiques en vigueur v 1.0.pdf)
+
+
+
+## Proposition d'évolution de la réglementation
+
+La dénomination des voies et l’adressage sont une compétence des communes reconnue au travers du décret 94-1112 (publicité foncière) et de l’article L2213-28 du Code général des collectivités territoriales (numérotation). Néanmoins, l’état réglementaire qui pèse en 2020 sur les communes est un héritage de 200 ans de textes divers et variés qui ne sont plus en phase avec les pratiques réelles et les enjeux, notamment au regard des attentes en matière de données numériques de référence.
+
+Les propositions contenues dans la dernière partie de ce document concourent à faire reconnaître la commune comme seule entité en capacité de produire une information voie- adresse officielle et opposable à des tiers. Á ce titre, elles sont une réponse à la proposition n° 22 du rapport de la députée Valéria FAURE-MUNTIAN sur les données géographique souveraines.
+
+En 2020 l’informatisation étant systématique, ces informations voies-adresses se doivent d’aboutir à la diffusion en open-data de ces base d’adresses locales, prérequis à la constitution de toute base de donnée agrégée de niveau national.
+
+Ce document est le fruit d'une collaboration entre l'[AITF](https://www.aitf.fr/) et l'[AFIGESE](https://afigese.fr) et a été élaboré dans le cadre de l'appel à contribution de [France Urbaine](https://franceurbaine.org/) afin de participer à la concertation sur [la future loi « 3D : différenciation, décentralisation, déconcentration »](https://www.cohesion-territoires.gouv.fr/en/node/44411) qui sera examinée par le parlement à l'automne 2020.
+
+
+Télécharger [« Contribution dans le cadre de la concertation sur la future loi 3D : différenciation, décentralisation, déconcentration - version 1.3 mars 2020 »](Proposition de modernisation de la réglementation concernant la dénomination des voies et l’adressage v1.3.pdf)
+
+
+
+
+## Format Base Adresse Locale (BAL)
+
+…
+
+
+## Aide, support, contact
+
+Maël REBOUX (Ville de Rennes / Rennes Métropole)
+
+Chantal ARRUTI (Ville de Bayonne / Communauté d'agglomération du Pays Basque)
+
+Nous contacter : [adm.sigtopo@gmail.com]()
