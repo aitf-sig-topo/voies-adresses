@@ -1,4 +1,4 @@
-![logo AITF SIG Topo](logo_aitf_sig_topo.png)
+![logo AITF SIG Topo](files/logo_aitf_sig_topo.png)
 
 ## À propos de cette page
 
@@ -23,7 +23,7 @@ La deuxième partie du document est une analyse de différents concepts et actio
 La troisième partie du document s'attache à recenser les bonnes pratiques reconnaues en matière de dénomination et d'adressage. Ces recommandations sont à la fois méthodologiques, organisationelles et techniques.
 
 
-Télécharger [« Voies et adresses : les procédures légales et les bonnes pratiques en vigueur - version 1.0 octobre 2015 »](AITF SIG Topo - Adresse - Les procédures légales et les bonnes pratiques en vigueur v 1.0.pdf)
+Télécharger [« Voies et adresses : les procédures légales et les bonnes pratiques en vigueur - version 1.0 octobre 2015 »](files/AITF%20SIG%20Topo%20-%20Adresse%20-%20Les%20proce%CC%81dures%20le%CC%81gales%20et%20les%20bonnes%20pratiques%20en%20vigueur%20v%201.0.pdf)
 
 
 
@@ -38,7 +38,7 @@ En 2020 l’informatisation étant systématique, ces informations voies-adres
 Ce document est le fruit d'une collaboration entre l'[AITF](https://www.aitf.fr/) et l'[AFIGESE](https://afigese.fr) et a été élaboré dans le cadre de l'appel à contribution de [France Urbaine](https://franceurbaine.org/) afin de participer à la concertation sur [la future loi « 3D : différenciation, décentralisation, déconcentration »](https://www.cohesion-territoires.gouv.fr/en/node/44411) qui sera examinée par le parlement à l'automne 2020.
 
 
-Télécharger [« Contribution dans le cadre de la concertation sur la future loi 3D : différenciation, décentralisation, déconcentration - version 1.3 mars 2020 »](Proposition de modernisation de la réglementation concernant la dénomination des voies et l’adressage v1.3.pdf)
+Télécharger [« Contribution dans le cadre de la concertation sur la future loi 3D : différenciation, décentralisation, déconcentration - version 1.3 mars 2020 »](files/Proposition%20de%20modernisation%20de%20la%20re%CC%81glementation%20concernant%20la%20de%CC%81nomination%20des%20voies%20et%20l%E2%80%99adressage%20v1.3.pdf)
 
 
 
