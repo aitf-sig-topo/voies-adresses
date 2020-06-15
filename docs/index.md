@@ -17,7 +17,7 @@ La première partie recense donc les textes réglementaire (lois, décret, etc) 
 
 La deuxième partie du document est une analyse de différents concepts et actions qui sont de la responsabilité des communes sur le sujet de la dénomination des voies de de l'adressage. Des propositions d'évolutions concluent cette partie.
 
-La troisième partie du document s'attache à recenser les bonnes pratiques reconnaues en matière de dénomination et d'adressage. Ces recommandations sont à la fois méthodologiques, organisationelles et techniques.
+La troisième partie du document s'attache à recenser les bonnes pratiques reconnues en matière de dénomination et d'adressage. Ces recommandations sont à la fois méthodologiques, organisationelles et techniques.
 
 
 Télécharger le document « Voies et adresses : les procédures légales et les bonnes pratiques en vigueur - version 1.1 juin 2020 »
