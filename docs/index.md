@@ -8,14 +8,12 @@ Le groupe de travail produisant ces ressources a été créé intialement en jui
 
 
 
-
-
 ## Les procédures légales et les bonnes pratiques en vigueur
 
 Ce document essaie d'être le document le plus complet en ce qui concerne le référencement des textes réglementaires (ou quasi réglementaires) qui s'imposent aux collectivités territoriales sur le sujet des voies et des adresses.
-La première partie recense donc les textes réglementaire (lois, décret, etc) ainsi que la jurisprudence administrative qui modèle le droit en la matière.
+La première partie recense donc les textes réglementaires (lois, décret, etc) ainsi que la jurisprudence administrative qui modèle le droit en la matière.
 
-La deuxième partie du document est une analyse de différents concepts et actions qui sont de la responsabilité des communes sur le sujet de la dénomination des voies de de l'adressage. Des propositions d'évolutions concluent cette partie.
+La deuxième partie du document est une analyse de différents concepts et actions qui sont de la responsabilité des communes sur le sujet de la dénomination des voies et de de l'adressage. Des propositions d'évolutions concluent cette partie.
 
 La troisième partie du document s'attache à recenser les bonnes pratiques reconnues en matière de dénomination et d'adressage. Ces recommandations sont à la fois méthodologiques, organisationelles et techniques.
 
@@ -32,7 +30,7 @@ La dénomination des voies et l’adressage sont une compétence des communes 
 
 Les propositions contenues dans la dernière partie de ce document concourent à faire reconnaître la commune comme seule entité en capacité de produire une information voie-adresse officielle et opposable à des tiers. Á ce titre, elles sont une réponse à la proposition n° 22 du rapport de la députée Valéria FAURE-MUNTIAN sur les données géographiques souveraines.
 
-En 2020 l’informatisation étant systématique, ces informations voies-adresses se doivent d’aboutir à la diffusion en open-data de ces base d’adresses locales, prérequis à la constitution de toute base de donnée agrégée de niveau national.
+En 2020 l’informatisation étant systématique, ces informations voies-adresses se doivent d’aboutir à la diffusion en *open data* de ces bases d’adresses locales, prérequis à la constitution de toute base de données agrégée de niveau national.
 
 Ce document est le fruit d'une collaboration entre l'[AITF](https://www.aitf.fr/) et l'[AFIGESE](https://afigese.fr) et a été élaboré dans le cadre de l'appel à contribution de [France Urbaine](https://franceurbaine.org/) afin de participer à la concertation sur [la future loi « 3D : différenciation, décentralisation, déconcentration »](https://www.cohesion-territoires.gouv.fr/en/node/44411) qui sera examinée par le parlement à l'automne 2020.
 
@@ -43,12 +41,12 @@ Télécharger le document « Contribution dans le cadre de la concertation sur l
 
 ## Format Base Adresse Locale (BAL)
 
-Depuis 2016 ce modèle de données ultra simple permet aux collectivités locales de diffuser des données voies-adresses en *open data*. Si les voies n'ont pas de géométrie, les adresses disposent d'attribut décrivant des coordonnées géographiques.
+Depuis 2016 ce modèle de données ultra simple permet aux collectivités locales de diffuser des données voies-adresses en *open data*. Dans ce modèle simple, ni les voies ni les adresses n'ont de géométrie mais les adresses disposent d'attributs décrivant des coordonnées géographiques.
 
 Ces données voies-adresses libres (car publiées sous la Licence Ouverte 2.0) sont destinées à être répertoriées sur [le site data.gouv.fr](https://www.data.gouv.fr/fr/datasets/?tag=bal). Une fois sur data.gouv.fr, elles sont automatiquement traitées afin d'alimenter le fichier "Adresses" qui est le regroupement de toutes [les bases adresses locales](https://adresse.data.gouv.fr/bases-locales) certifiés par les communes.
 [Un tableau de bord ](https://adresse.data.gouv.fr/bases-locales)recense l'avancement de la disponibilité des Bases Adresses Locales sur le territoire métropolitain.
 
-Noter qu'un [validateur de fichier BAL](https://github.com/etalab/bal/) a été créé afin de vérifier la validité et la conformité des fichiers avant leur diffusion.
+Noter qu'un [validateur de fichier BAL](https://github.com/etalab/bal/) a été créé afin de vérifier la validité et la conformité des fichiers avant leur diffusion. Il est possible également d'utiliser une [version en ligne](https://adresse.data.gouv.fr/bases-locales/validateur).
 
 Enfin, [un éditeur en ligne](https://adresse.data.gouv.fr/bases-locales) vous permet d'initialiser puis de gérer directement vos voies et vos adresses. Cet outil léger peut largement suffire à des communes modestes non équipées de Systèmes d'Information Géographiques.
 
