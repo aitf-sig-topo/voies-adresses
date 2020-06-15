@@ -30,7 +30,7 @@ Télécharger le document « Voies et adresses : les procédures légales et les
 
 La dénomination des voies et l’adressage sont une compétence des communes reconnue au travers du décret 94-1112 (publicité foncière) et de l’article L2213-28 du Code général des collectivités territoriales (numérotation). Néanmoins, l’état réglementaire qui pèse en 2020 sur les communes est un héritage de 200 ans de textes divers et variés qui ne sont plus en phase avec les pratiques réelles et les enjeux, notamment au regard des attentes en matière de données numériques de référence.
 
-Les propositions contenues dans la dernière partie de ce document concourent à faire reconnaître la commune comme seule entité en capacité de produire une information voie- adresse officielle et opposable à des tiers. Á ce titre, elles sont une réponse à la proposition n° 22 du rapport de la députée Valéria FAURE-MUNTIAN sur les données géographique souveraines.
+Les propositions contenues dans la dernière partie de ce document concourent à faire reconnaître la commune comme seule entité en capacité de produire une information voie-adresse officielle et opposable à des tiers. Á ce titre, elles sont une réponse à la proposition n° 22 du rapport de la députée Valéria FAURE-MUNTIAN sur les données géographiques souveraines.
 
 En 2020 l’informatisation étant systématique, ces informations voies-adresses se doivent d’aboutir à la diffusion en open-data de ces base d’adresses locales, prérequis à la constitution de toute base de donnée agrégée de niveau national.
 
