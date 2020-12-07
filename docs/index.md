@@ -1,6 +1,6 @@
 [![logo AITF SIG Topo](files/logo_aitf_sig_topo.png)](https://www.aitf.fr/groupe-travail/sig-topographie)
 
-## À propos de cette page
+## <a name="a-propos"></a> À propos de cette page
 
 Vous trouverez ici des ressources de référence relatives à la thématique voies et adresses. Ces ressources ont été créées pour les besoins des géomaticiens (et des techniciens dans leur ensembles) des collectivités territoriales qui ont besoin de gérer des données voies-adresses.
 
@@ -8,7 +8,7 @@ Le groupe de travail produisant ces ressources a été créé intialement en jui
 
 
 
-## Les procédures légales et les bonnes pratiques en vigueur
+## <a name="reglementation-bonnes-pratiques"></a> Les procédures légales et les bonnes pratiques en vigueur
 
 Ce document essaie d'être le document le plus complet en ce qui concerne le référencement des textes réglementaires (ou quasi réglementaires) qui s'imposent aux collectivités territoriales sur le sujet des voies et des adresses.
 La première partie recense donc les textes réglementaires (lois, décret, etc) ainsi que la jurisprudence administrative qui modèle le droit en la matière.
@@ -24,7 +24,7 @@ Télécharger le document « Voies et adresses : les procédures légales et les
 
 
 
-## Proposition d'évolution de la réglementation
+## <a name="evolution-reglementation"></a> Proposition d'évolution de la réglementation
 
 La dénomination des voies et l’adressage sont une compétence des communes reconnue au travers du décret 94-1112 (publicité foncière) et de l’article L2213-28 du Code général des collectivités territoriales (numérotation). Néanmoins, l’état réglementaire qui pèse en 2020 sur les communes est un héritage de 200 ans de textes divers et variés qui ne sont plus en phase avec les pratiques réelles et les enjeux, notamment au regard des attentes en matière de données numériques de référence.
 
@@ -39,7 +39,7 @@ Télécharger le document « Contribution dans le cadre de la concertation sur l
 [![](files/application-pdf.png)](files/Proposition_de_modernisation_de_la_reglementation_concernant_la_denomination_des_voies_et_l_adressage_v1.3.pdf)
 
 
-## Format Base Adresse Locale (BAL)
+## <a name="format-bal"></a> Format Base Adresse Locale (BAL)
 
 Depuis 2016 ce modèle de données ultra simple permet aux collectivités locales de diffuser des données voies-adresses en *open data*. Dans ce modèle simple, ni les voies ni les adresses n'ont de géométrie mais les adresses disposent d'attributs décrivant des coordonnées géographiques.
 
