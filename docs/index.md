@@ -48,11 +48,11 @@ Ces données voies-adresses libres (car publiées sous la Licence Ouverte 2.0) s
 
 Noter qu'un [validateur de fichier BAL](https://github.com/etalab/bal/) a été créé afin de vérifier la validité et la conformité des fichiers avant leur diffusion. Il est possible également d'utiliser une [version en ligne](https://adresse.data.gouv.fr/bases-locales/validateur).
 
-Enfin, [un éditeur en ligne](https://adresse.data.gouv.fr/bases-locales) vous permet d'initialiser puis de gérer directement vos voies et vos adresses. Cet outil léger peut largement suffire à des communes modestes non équipées de Systèmes d'Information Géographiques.
+Enfin, [un éditeur en ligne](https://adresse.data.gouv.fr/gerer-mes-adresses) vous permet d'initialiser puis de gérer directement vos voies et vos adresses. Cet outil léger peut largement suffire à des communes modestes non équipées de Systèmes d'Information Géographiques.
 
 
-Télécharger le document « Proposition d’un modèle de données simple visant à alimenter la BAN par des fichiers - version 1.1 février 2016 »
-[![](files/application-pdf.png)](files/AITF_SIG_Topo_Format_Base_Adresse_Locale_v1.1.pdf)
+Télécharger le document « Proposition d’un modèle de données simple visant à alimenter la BAN par des fichiers - version 1.2 novembre 2020 »
+[![](files/application-pdf.png)](files/AITF_SIG_Topo_Format_Base_Adresse_Locale_v1.2.pdf)
 
 
 
