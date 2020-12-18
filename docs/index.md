@@ -35,8 +35,8 @@ En 2020 l’informatisation étant systématique, ces informations voies-adres
 Ce document est le fruit d'une collaboration entre l'[AITF](https://www.aitf.fr/) et l'[AFIGESE](https://afigese.fr) et a été élaboré dans le cadre de l'appel à contribution de [France Urbaine](https://franceurbaine.org/) afin de participer à la concertation sur [la future loi « 3D : différenciation, décentralisation, déconcentration »](https://www.cohesion-territoires.gouv.fr/en/node/44411) qui sera examinée par le parlement à l'automne 2020.
 
 
-Télécharger le document « Contribution dans le cadre de la concertation sur la future loi 3D : différenciation, décentralisation, déconcentration - version 1.3 mars 2020 »
-[![](files/application-pdf.png)](files/Proposition_de_modernisation_de_la_reglementation_concernant_la_denomination_des_voies_et_l_adressage_v1.3.pdf)
+Télécharger le document « Contribution dans le cadre de la concertation sur la future loi 3D : différenciation, décentralisation, déconcentration - version 1.4 décembre 2020 »
+[![](files/application-pdf.png)](files/Proposition_de_modernisation_de_la_reglementation_concernant_la_denomination_des_voies_et_l_adressage_v1.4.pdf)
 
 
 ## <a name="format-bal"></a> Format Base Adresse Locale (BAL)
