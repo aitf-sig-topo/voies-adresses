@@ -55,6 +55,16 @@ Télécharger le document « Proposition d’un modèle de données simple vis
 [![](files/application-pdf.png)](files/AITF_SIG_Topo_Format_Base_Adresse_Locale_v1.2.pdf)
 
 
+## <a name="carte-demarche-adressage"></a> Carte des démarches d'adressage en France
+
+La carte participe ci-dessous recence les organisations qui se déclarent en tant que chef de file territorial sur l'adresse sur leur territoire de compétence.
+
+N'hésitez pas à les contacter si vous cherchez de l'aide ou des ressources pour vous lancer.
+
+
+<iframe width="100%" height="500px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/carte-des-demarches-dadressage-en-france_261912?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="//umap.openstreetmap.fr/fr/map/carte-des-demarches-dadressage-en-france_261912">Voir en plein écran</a></p>
+
+
 
 ## <a name="contact"></a> Contact
 
