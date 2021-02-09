@@ -73,3 +73,20 @@ Maël REBOUX (Ville de Rennes / Rennes Métropole)
 Chantal ARRUTI (Ville de Bayonne)
 
 Nous contacter : [adm.sigtopo@gmail.com]()
+
+
+## <a name="permaliens"></a> Permaliens
+
+
+
+[https://aitf-sig-topo.github.io/voies-adresses/#a-propos](https://aitf-sig-topo.github.io/voies-adresses/#a-propos)
+
+[https://aitf-sig-topo.github.io/voies-adresses/#reglementation-bonnes-pratiques](https://aitf-sig-topo.github.io/voies-adresses/#reglementation-bonnes-pratiques)
+
+[https://aitf-sig-topo.github.io/voies-adresses/#evolution-reglementation](https://aitf-sig-topo.github.io/voies-adresses/#evolution-reglementation)
+
+[https://aitf-sig-topo.github.io/voies-adresses/#format-bal](https://aitf-sig-topo.github.io/voies-adresses/#format-bal)
+
+[https://aitf-sig-topo.github.io/voies-adresses/#carte-demarche-adressage](https://aitf-sig-topo.github.io/voies-adresses/#carte-demarche-adressage)
+
+[https://aitf-sig-topo.github.io/voies-adresses/#contact](https://aitf-sig-topo.github.io/voies-adresses/#contact)
