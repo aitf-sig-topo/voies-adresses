@@ -70,6 +70,6 @@ N'hésitez pas à les contacter si vous cherchez de l'aide ou des ressources pou
 
 Maël REBOUX (Ville de Rennes / Rennes Métropole)
 
-Chantal ARRUTI (Ville de Bayonne / Communauté d'agglomération du Pays Basque)
+Chantal ARRUTI (Ville de Bayonne)
 
 Nous contacter : [adm.sigtopo@gmail.com]()
