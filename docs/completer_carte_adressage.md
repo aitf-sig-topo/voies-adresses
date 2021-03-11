@@ -34,15 +34,15 @@ Note : "name" est un attribut obligatoire pour umap.
 
 Nous recommandons d'utiliser QGIS pour simplifier les géométries.
 
-[![](files/qgis_simplifier_1.png)]
+![](files/qgis_simplifier_1.png)
 
-[![](files/qgis_donnees.png)
+![](files/qgis_donnees.png)
 
 Une fois la nouvelle couche obtenue : créer les attributs comme spécifié plus haut et compléter.
 
 Exporter en GeoJSON et en WGS84.
 
-[![](files/qgis_export_geojson.png)]
+![](files/qgis_export_geojson.png)
 
 
 
@@ -59,5 +59,5 @@ Ouvrir la carte umap [https://umap.openstreetmap.fr/fr/map/carte-des-demarches-d
 - Sortir du mode d'édition
 
 
-[![](files/umap_import.gif)]
+![](files/umap_import.gif)
 
