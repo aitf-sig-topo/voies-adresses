@@ -61,9 +61,11 @@ La carte participe ci-dessous recence les organisations qui se déclarent en tan
 
 N'hésitez pas à les contacter si vous cherchez de l'aide ou des ressources pour vous lancer.
 
+Voir [ici](completer_carte_adressage.html) comment compléter la carte.
 
-<iframe width="100%" height="500px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/carte-des-demarches-dadressage-en-france_261912?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="//umap.openstreetmap.fr/fr/map/carte-des-demarches-dadressage-en-france_261912">Voir en plein écran</a></p>
 
+<iframe width="100%" height="500px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/carte-des-demarches-dadressage-en-france_261912?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="//umap.openstreetmap.fr/fr/map/carte-des-demarches-dadressage-en-france_261912">
+Voir en plein écran</a></p>
 
 Voir également la carte du déploiement des Bases Adresses Locales sur [https://adresse.data.gouv.fr/bases-locales](https://adresse.data.gouv.fr/bases-locales)
 
