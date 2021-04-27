@@ -2,7 +2,7 @@
 name: 'Format BAL : demande d''évolution'
 about: Suggérer une évolution du fichier d'échange Base Adresse Locale
 title: "[suggestion]"
-labels: help wanted
+labels: demande d'évolution
 assignees: ''
 
 ---
