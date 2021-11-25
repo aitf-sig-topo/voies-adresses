@@ -67,7 +67,7 @@ Voir [ici](completer_carte_adressage.html) comment compléter la carte.
 <iframe width="100%" height="500px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/carte-des-demarches-dadressage-en-france_261912?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="//umap.openstreetmap.fr/fr/map/carte-des-demarches-dadressage-en-france_261912">
 Voir en plein écran</a></p>
 
-Voir également la carte du déploiement des Bases Adresses Locales sur [https://adresse.data.gouv.fr/bases-locales](https://adresse.data.gouv.fr/bases-locales)
+Voir également la carte du déploiement des Bases Adresses Locales sur [https://adresse.data.gouv.fr/deploiement-bal](https://adresse.data.gouv.fr/deploiement-bal)
 
 
 
