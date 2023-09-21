@@ -74,8 +74,6 @@ Nous contacter : [adm.sigtopo@gmail.com]()
 
 [https://aitf-sig-topo.github.io/voies-adresses/#reglementation-bonnes-pratiques](https://aitf-sig-topo.github.io/voies-adresses/#reglementation-bonnes-pratiques)
 
-[https://aitf-sig-topo.github.io/voies-adresses/#evolution-reglementation](https://aitf-sig-topo.github.io/voies-adresses/#evolution-reglementation)
-
 [https://aitf-sig-topo.github.io/voies-adresses/#format-bal](https://aitf-sig-topo.github.io/voies-adresses/#format-bal)
 
 [https://aitf-sig-topo.github.io/voies-adresses/#carte-demarche-adressage](https://aitf-sig-topo.github.io/voies-adresses/#carte-demarche-adressage)
