@@ -24,20 +24,6 @@ Télécharger le document « Voies et adresses : les procédures légales et les
 
 
 
-## <a name="evolution-reglementation"></a> Proposition d'évolution de la réglementation
-
-La dénomination des voies et l’adressage sont une compétence des communes reconnue au travers du décret 94-1112 (publicité foncière) et de l’article L2213-28 du Code général des collectivités territoriales (numérotation). Néanmoins, l’état réglementaire qui pèse en 2020 sur les communes est un héritage de 200 ans de textes divers et variés qui ne sont plus en phase avec les pratiques réelles et les enjeux, notamment au regard des attentes en matière de données numériques de référence.
-
-Les propositions contenues dans la dernière partie de ce document concourent à faire reconnaître la commune comme seule entité en capacité de produire une information voie-adresse officielle et opposable à des tiers. Á ce titre, elles sont une réponse à la proposition n° 22 du rapport de la députée Valéria FAURE-MUNTIAN sur les données géographiques souveraines.
-
-En 2020 l’informatisation étant systématique, ces informations voies-adresses se doivent d’aboutir à la diffusion en *open data* de ces bases d’adresses locales, prérequis à la constitution de toute base de données agrégée de niveau national.
-
-Ce document est le fruit d'une collaboration entre l'[AITF](https://www.aitf.fr/) et l'[AFIGESE](https://afigese.fr) et a été élaboré dans le cadre de l'appel à contribution de [France Urbaine](https://franceurbaine.org/) afin de participer à la concertation sur [la future loi « 3D : différenciation, décentralisation, déconcentration »](https://www.cohesion-territoires.gouv.fr/en/node/44411) qui sera examinée par le parlement à l'automne 2020.
-
-
-Télécharger le document « Contribution dans le cadre de la concertation sur la future loi 3D : différenciation, décentralisation, déconcentration - version 1.4 décembre 2020 »
-[![](files/application-pdf.png)](files/Proposition_de_modernisation_de_la_reglementation_concernant_la_denomination_des_voies_et_l_adressage_v1.4.pdf)
-
 
 ## <a name="format-bal"></a> Format Base Adresse Locale (BAL)
 
