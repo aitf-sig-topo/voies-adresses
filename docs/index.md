@@ -51,8 +51,8 @@ Noter qu'un [validateur de fichier BAL](https://github.com/etalab/bal/) a été 
 Enfin, [un éditeur en ligne](https://adresse.data.gouv.fr/gerer-mes-adresses) vous permet d'initialiser puis de gérer directement vos voies et vos adresses. Cet outil léger peut largement suffire à des communes modestes non équipées de Systèmes d'Information Géographiques.
 
 
-Télécharger le document « Proposition d’un modèle de données simple visant à alimenter la BAN par des fichiers - version 1.3 novembre 2021 »
-[![](files/application-pdf.png)](files/AITF_SIG_Topo_Format_Base_Adresse_Locale_v1.3.pdf)
+Télécharger le document « Proposition d’un modèle de données simple visant à alimenter la BAN par des fichiers - version 1.4 septembre 2023 »
+[![](files/application-pdf.png)](files/AITF_SIG_Topo_Format_Base_Adresse_Locale_v1.4.pdf)
 
 
 ## <a name="carte-demarche-adressage"></a> Carte des démarches d'adressage en France
