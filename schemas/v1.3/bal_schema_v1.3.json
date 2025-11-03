@@ -1,0 +1,166 @@
+{
+    "$schema": "https://specs.frictionlessdata.io/schemas/table-schema.json",
+    "name": "base_adresse_locale",
+    "title": "Base Adresse Locale",
+    "description": "Spécification du fichier d'échange visant à diffuser des données voies-adresses locales",
+    "keywords": [
+        "adresse",
+        "voie"
+    ],
+    "countryCode": "FR",
+    "homepage": "https://github.com/aitf-sig-topo/voies-adresses",
+    "path": "https://github.com/aitf-sig-topo/voies-adresses/schemas/v1.3/bal_schema_v1.3.json",
+    "licenses": [
+        {
+            "title": "CC BY-NC-ND 4.0",
+            "name": "CC BY-NC-ND 4.0",
+            "path": "https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr"
+        }
+    ],
+    "created": "2025-03-25",
+    "lastModified": "2025-03-25",
+    "version": "v1.3.0",
+    "contributors": [
+        {
+            "title": "Groupe de travail SIG et topographie",
+            "organisation": "AITF - Association des Ingénieur.e.s territoriaux et Ingénieur.e.s en chef territoriaux de France",
+            "role": "author"
+        }
+    ],
+  "fields": [
+    {
+      "name": "uid_adresse",
+      "type": "string",
+      "description": "identifiant unique d'adresse",
+      "example": "88ee4b38-67af-4964-9706-57e0d4a67f7e"
+    },
+    {
+      "name": "cle_interop",
+      "type": "string",
+      "description": "clé nationale d’interopérabilité",
+      "example": "88ee4b38-67af-4964-9706-57e0d4a67f7e"
+    },
+    {
+      "name": "commune_insee",
+      "type": "string",
+      "constraints": {
+        "required": true
+      },
+      "description": "code INSEE de la commune"
+    },
+    {
+      "name": "commune_nom",
+      "type": "string",
+      "description": "nom de la commune",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "commune_deleguee_insee",
+      "type": "string",
+      "constraints": {
+        "maxLength": 5
+      },
+      "description": "code INSEE de la commune déléguée"
+    },
+    {
+      "name": "commune_deleguee_nom",
+      "type": "string",
+      "description": "nom de la commune déléguée"
+    },
+    {
+      "name": "voie_nom",
+      "type": "string",
+      "description": "nom complet de la voie",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "lieudit_complement_nom",
+      "type": "string",
+      "description": "nom du lieu-dit historique ou complémentaire"
+    },
+    {
+      "name": "numero",
+      "type": "integer",
+      "description": "numéro",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "suffixe",
+      "type": "string",
+      "description": "informations qui complètent et précisent les numéros d’adresses"
+    },
+    {
+      "name": "position",
+      "type": "string",
+      "description": "décrit la position d’une adresse (liste de valeurs)",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "x",
+      "type": "number",
+      "description": "système de projection légal en vigueur sur le territoire concerné",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "y",
+      "type": "number",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "long",
+      "type": "number",
+      "description": "coordonnées exprimées en WGS84",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "lat",
+      "type": "number",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "cad_parcelles",
+      "type": "string",
+      "description": "liste des parcelles, séparées par un pipe (|), desservies ou représentées par cette adresse"
+    },
+    {
+      "name": "source",
+      "type": "string",
+      "description": "organisme ayant créé cette adresse",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "date_der_maj",
+      "type": "date",
+      "description": "Date de la dernière mise à jour de la donnée au format AAAA-MM-JJ",
+      "constraints": {
+        "required": true
+      }
+    },
+    {
+      "name": "certification_commune",
+      "type": "integer",
+      "description": "Certification communale",
+      "constraints": {
+        "required": true
+      }
+    }
+  ]
+}

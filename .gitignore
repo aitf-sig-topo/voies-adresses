@@ -1,1 +1,11 @@
 .DS_Store
+
+.venv/
+schemas/.venv/
+
+.idea/
+schemas/.idea/
+
+schemas/*/rapport.txt
+schemas/*/*_erreurs.txt
+
