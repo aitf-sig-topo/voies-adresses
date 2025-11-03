@@ -41,19 +41,10 @@ Télécharger le document « Proposition d’un modèle de données simple vis
 [![](files/application-pdf.png)](files/AITF_SIG_Topo_Format_Base_Adresse_Locale_v1.4.pdf)
 
 
-## <a name="carte-demarche-adressage"></a> Carte des démarches d'adressage en France
 
-La carte participe ci-dessous recence les organisations qui se déclarent en tant que chef de file territorial sur l'adresse sur leur territoire de compétence.
+## <a name="carte-deploiement"></a> État du déploiement des Bases Adresses Locales
 
-N'hésitez pas à les contacter si vous cherchez de l'aide ou des ressources pour vous lancer.
-
-Voir [ici](completer_carte_adressage.html) comment compléter la carte.
-
-
-<iframe width="100%" height="500px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/carte-des-demarches-dadressage-en-france_261912?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="//umap.openstreetmap.fr/fr/map/carte-des-demarches-dadressage-en-france_261912">
-Voir en plein écran</a></p>
-
-Voir également la carte du déploiement des Bases Adresses Locales sur [https://adresse.data.gouv.fr/deploiement-bal](https://adresse.data.gouv.fr/deploiement-bal)
+L'ANCT maintient une carte de France du déploiement des Bases Adresses Locales sur [https://adresse.data.gouv.fr/deploiement-bal](https://adresse.data.gouv.fr/deploiement-bal)
 
 
 
@@ -76,6 +67,6 @@ Nous contacter : [adm.sigtopo@gmail.com]()
 
 [https://aitf-sig-topo.github.io/voies-adresses/#format-bal](https://aitf-sig-topo.github.io/voies-adresses/#format-bal)
 
-[https://aitf-sig-topo.github.io/voies-adresses/#carte-demarche-adressage](https://aitf-sig-topo.github.io/voies-adresses/#carte-demarche-adressage)
+[https://aitf-sig-topo.github.io/voies-adresses/#carte-demarche-adressage](https://aitf-sig-topo.github.io/voies-adresses/#carte-deploiement)
 
 [https://aitf-sig-topo.github.io/voies-adresses/#contact](https://aitf-sig-topo.github.io/voies-adresses/#contact)
