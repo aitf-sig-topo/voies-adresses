@@ -18,27 +18,36 @@ La deuxième partie du document est une analyse de différents concepts et actio
 La troisième partie du document s'attache à recenser les bonnes pratiques reconnues en matière de dénomination et d'adressage. Ces recommandations sont à la fois méthodologiques, organisationelles et techniques.
 
 
-Télécharger le document « Voies et adresses : les procédures légales et les bonnes pratiques en vigueur - version 1.1 juin 2020 »
-[![](files/application-pdf.png)](files/AITF_SIG_Topo_Adresse_Les_procedures_legales_et_les_bonnes_pratiques_en_vigueur_v1.1.pdf)
+Télécharger le document : [Voies et adresses : les procédures légales et les bonnes pratiques en vigueur - version 1.1 juin 2020](files/AITF_SIG_Topo_Adresse_Les_procedures_legales_et_les_bonnes_pratiques_en_vigueur_v1.1.pdf)
 
 
 
 
+## <a name="format-bal"></a> Spécifications du format Base Adresse Locale (BAL)
 
-## <a name="format-bal"></a> Format Base Adresse Locale (BAL)
+Depuis 2016 ce modèle de données simple permet aux collectivités locales de diffuser leurs données voies-adresses en *open data* et/ou d'alimenter la Base Adresse Nationale.
 
-Depuis 2016 ce modèle de données ultra simple permet aux collectivités locales de diffuser des données voies-adresses en *open data*. Dans ce modèle simple, ni les voies ni les adresses n'ont de géométrie mais les adresses disposent d'attributs décrivant des coordonnées géographiques.
-
-Ces données voies-adresses libres (car publiées sous la Licence Ouverte 2.0) sont destinées à être répertoriées sur [le site data.gouv.fr](https://www.data.gouv.fr/fr/datasets/?tag=bal). Une fois sur data.gouv.fr, elles sont automatiquement traitées afin d'alimenter le fichier "Adresses" qui est le regroupement de toutes [les bases adresses locales](https://adresse.data.gouv.fr/bases-locales) certifiés par les communes.
-[Un tableau de bord ](https://adresse.data.gouv.fr/bases-locales)recense l'avancement de la disponibilité des Bases Adresses Locales sur le territoire métropolitain.
-
-Noter qu'un [validateur de fichier BAL](https://github.com/etalab/bal/) a été créé afin de vérifier la validité et la conformité des fichiers avant leur diffusion. Il est possible également d'utiliser une [version en ligne](https://adresse.data.gouv.fr/bases-locales/validateur).
-
-Enfin, [un éditeur en ligne](https://adresse.data.gouv.fr/gerer-mes-adresses) vous permet d'initialiser puis de gérer directement vos voies et vos adresses. Cet outil léger peut largement suffire à des communes modestes non équipées de Systèmes d'Information Géographiques.
+Conformément à la réglementation, ces données doivent être diffusées sous la [Licence Ouverte 2.0](https://www.data.gouv.fr/pages/legal/licences/etalab-2.0). Ces données voies-adresses libres sont répertoriées sur [le site data.gouv.fr](https://www.data.gouv.fr/datasets/search?schema=etalab%2Fschema-bal).
 
 
-Télécharger le document « Proposition d’un modèle de données simple visant à alimenter la BAN par des fichiers - version 1.4 septembre 2023 »
-[![](files/application-pdf.png)](files/AITF_SIG_Topo_Format_Base_Adresse_Locale_v1.4.pdf)
+Dans ce modèle simple, ni les voies ni les adresses n'ont de géométrie mais les adresses disposent d'attributs décrivant des coordonnées géographiques.
+
+
+Le groupe de travail qui maintient la spécification BAL participe aux travaux des groupes du CNIG visant à la mise en place des référentiels [routes/voies](https://cnig.gouv.fr/gt-routes-voies-a26007.html) et [bâtiments](https://cnig.gouv.fr/gt-bati-a25939.html).
+
+
+[Un tableau de bord ](https://adresse.data.gouv.fr/deploiement-bal)recense l'avancement de la disponibilité des Bases Adresses Locales sur le territoire métropolitain.
+
+
+[Un éditeur en ligne](https://mes-adresses.data.gouv.fr/) permet à des communes non équipées de Systèmes d'Information Géographiques de modifier leur adressage.
+
+
+Télécharger les spécifications :
+
+- [spécifications BAL version 1.4](files/AITF_SIG_Topo_Format_Base_Adresse_Locale_v1.4.pdf) : en vigueur
+- [spécifications BAL version 1.3](files/AITF_SIG_Topo_Format_Base_Adresse_Locale_v1.3.pdf) : obsolète
+- [spécifications BAL version 1.2](files/AITF_SIG_Topo_Format_Base_Adresse_Locale_v1.2.pdf) : obsolète
+- [spécifications BAL version 1.1](files/AITF_SIG_Topo_Format_Base_Adresse_Locale_v1.1.pdf) : obsolète
 
 
 
