@@ -36,10 +36,7 @@ Dans ce modèle simple, ni les voies ni les adresses n'ont de géométrie mais l
 Le groupe de travail qui maintient la spécification BAL participe aux travaux des groupes du CNIG visant à la mise en place des référentiels [routes/voies](https://cnig.gouv.fr/gt-routes-voies-a26007.html) et [bâtiments](https://cnig.gouv.fr/gt-bati-a25939.html).
 
 
-[Un tableau de bord ](https://adresse.data.gouv.fr/deploiement-bal)recense l'avancement de la disponibilité des Bases Adresses Locales sur le territoire métropolitain.
-
-
-[Un éditeur en ligne](https://mes-adresses.data.gouv.fr/) permet à des communes non équipées de Systèmes d'Information Géographiques de modifier leur adressage.
+Pour les communes qui ne sont pas prises en charge techniquement par un tiers (EPCI, plate-forme régionale...), l'ANCT propose [un éditeur en ligne](https://mes-adresses.data.gouv.fr/) qui leur permet de gérer directement leur adressage.
 
 
 Télécharger les spécifications :
