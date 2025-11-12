@@ -6,6 +6,9 @@ schemas/.venv/
 .idea/
 schemas/.idea/
 
+# jekyll builds
+docs/_site/
+
 schemas/*/rapport.txt
 schemas/*/*_erreurs.txt
 
