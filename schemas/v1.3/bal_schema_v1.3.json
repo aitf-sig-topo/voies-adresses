@@ -148,7 +148,7 @@
     {
       "name": "x",
       "description": "système de projection légal en vigueur sur le territoire concerné",
-      "type": "number",
+      "type": "string",
       "constraints": {
         "required": true,
         "pattern": "-?[0-9]{1,7}.[0-9]{2}"
@@ -157,7 +157,7 @@
     {
       "name": "y",
       "description": "système de projection légal en vigueur sur le territoire concerné",
-      "type": "number",
+      "type": "string",
       "constraints": {
         "required": true,
         "pattern": "-?[0-9]{1,7}.[0-9]{2}"
@@ -165,7 +165,7 @@
     },
     {
       "name": "long",
-      "type": "number",
+      "type": "string",
       "description": "coordonnées exprimées en WGS84",
       "constraints": {
         "required": true,
@@ -175,7 +175,7 @@
     {
       "name": "lat",
       "description": "coordonnées exprimées en WGS84",
-      "type": "number",
+      "type": "string",
       "constraints": {
         "required": true,
         "pattern": "-?[0-9]{1,2}.[0-9]{7}"
