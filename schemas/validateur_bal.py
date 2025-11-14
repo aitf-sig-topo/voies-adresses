@@ -16,7 +16,7 @@ def load_schema(schema_path):
 
     with open(schema_path, 'r', encoding='utf-8') as schema_file:
         schema_data = json.load(schema_file)
-    logging.info(f"Schéma chargé : {schema_data}")  # Impression de débogage
+    # logging.info(f"Schéma chargé : {schema_data}")  # Impression de débogage
     return Schema(descriptor=schema_data)
 
 
@@ -37,11 +37,11 @@ def main(csv_path, version, header_only):
     schema = load_schema(schema_path)
 
     # Impression des premières lignes du CSV pour vérification
-    with open(csv_path, 'r') as csv_file:
-        lines = csv_file.readlines()
-        logging.info("Premières lignes du CSV :")
-        for line in lines[:5]:  # Imprime les 5 premières lignes
-            logging.info(line.strip())
+    # with open(csv_path, 'r') as csv_file:
+    #     lines = csv_file.readlines()
+    #     logging.info("Premières lignes du CSV :")
+    #     for line in lines[:5]:  # Imprime les 5 premières lignes
+    #         logging.info(line.strip())
 
     report = validate_csv(csv_path, schema, header_only)
 
