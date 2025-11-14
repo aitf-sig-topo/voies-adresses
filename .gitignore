@@ -12,3 +12,5 @@ docs/_site/
 schemas/*/rapport.txt
 schemas/*/*_erreurs.txt
 
+# LibreOffice
+.~lock.*
