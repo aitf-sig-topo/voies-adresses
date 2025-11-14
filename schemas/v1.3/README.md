@@ -3,7 +3,7 @@
 ## Explication du fichier d'exemple `BAL simple`
 
 
-Les lignes 2 à 18 décrivent des **adresses sur un toponyme dénommé**, en l'occurence, une rue.
+Les lignes 2 à 18 décrivent des **adresses sur un toponyme adressé**, en l'occurence, une rue.
 
 ```
 1 Rue de Chanteloup
