@@ -38,10 +38,10 @@ Si le fichier contient des erreurs, celles-ci apparaîtront dans la console, en 
 
 ## Limites
 
-La spécification BAL contient es subtilités qui ne peuvent être décrites dans le formalisme Table Schema.
-Le validateur peut donc laisser passer beaucoup d'erreurs réelles mais pas de conformité à la spécification.
+La spécification BAL contient des subtilités qui ne peuvent pas être décrites dans le formalisme Table Schema.
+Le validateur peut donc laisser passer beaucoup d'erreurs réelles mais pas les erreurs de conformité stricte à la spécification.
 
-Le suffixe n'est pas testé.
+Par exemple : le suffixe n'est pas testé et on ne fait pas de différence entre une adresse et un toponyme non adressé.
 
 
 ## Ressources
