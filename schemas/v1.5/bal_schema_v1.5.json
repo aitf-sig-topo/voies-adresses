@@ -1,4 +1,4 @@
- {
+{
     "$schema": "https://specs.frictionlessdata.io/schemas/table-schema.json",
     "name": "base_adresse_locale",
     "title": "Base Adresse Locale",
@@ -32,11 +32,9 @@
       "name": "id_ban_commune",
       "description": "identifiant unique de la commune fourni par la BAN",
       "type": "string",
+      "format": "uuid",
       "constraints": {
-        "required": false,
-        "minLength": 36,
-        "maxLength": 36,
-        "pattern": "(\\w{8}-\\w{4}-\\w{4}-\\w{4}-\\w{12})"
+        "required": false
       },
       "missingValues": [""]
     },
@@ -44,11 +42,9 @@
       "name": "id_ban_toponyme",
       "description": "identifiant unique du toponyme auquel est rattaché l’adresse",
       "type": "string",
+      "format": "uuid",
       "constraints": {
-        "required": false,
-        "minLength": 36,
-        "maxLength": 36,
-        "pattern": "(\\w{8}-\\w{4}-\\w{4}-\\w{4}-\\w{12})"
+        "required": false
       },
       "missingValues": [""]
     },
@@ -56,11 +52,9 @@
       "name": "id_ban_adresse",
       "description": "identifiant unique de l'adresse",
       "type": "string",
+      "format": "uuid",
       "constraints": {
-        "required": false,
-        "minLength": 36,
-        "maxLength": 36,
-        "pattern": "(\\w{8}-\\w{4}-\\w{4}-\\w{4}-\\w{12})"
+        "required": false
       },
       "missingValues": [""]
     },
