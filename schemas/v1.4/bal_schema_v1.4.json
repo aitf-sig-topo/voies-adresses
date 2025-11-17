@@ -10,8 +10,7 @@
     "countryCode": "FR",
     "homepage": "https://github.com/aitf-sig-topo/voies-adresses",
     "path": "https://github.com/aitf-sig-topo/voies-adresses/schemas/v1.4/bal_schema_v1.4.json",
-    "licenses": [
-        {
+    "licenses": [{
             "title": "CC BY-NC-ND 4.0",
             "name": "CC BY-NC-ND 4.0",
             "path": "https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr"
@@ -20,220 +19,197 @@
     "created": "2025-03-25",
     "lastModified": "2025-11-14",
     "version": "v1.4.0",
-    "contributors": [
-        {
+    "contributors": [{
             "title": "Groupe de travail SIG et topographie",
             "organisation": "AITF - Association des Ingénieur.e.s territoriaux et Ingénieur.e.s en chef territoriaux de France",
             "role": "author"
         }
     ],
-  "fields": [
-    {
-      "name": "id_ban_commune",
-      "description": "identifiant unique de la commune fourni par la BAN",
-      "type": "string",
-      "format": "uuid",
-      "constraints": {
-        "required": false
-      },
-      "missingValues": [""]
-    },
-    {
-      "name": "id_ban_toponyme",
-      "description": "identifiant unique du toponyme auquel est rattaché l’adresse",
-      "type": "string",
-      "format": "uuid",
-      "constraints": {
-        "required": false
-      },
-      "missingValues": [""]
-    },
-    {
-      "name": "id_ban_adresse",
-      "description": "identifiant unique de l'adresse",
-      "type": "string",
-      "format": "uuid",
-      "constraints": {
-        "required": false
-      },
-      "missingValues": [""]
-    },
-    {
-      "name": "cle_interop",
-      "description": "clé nationale d’interopérabilité",
-      "type": "string",
-      "constraints": {
-        "required": true,
-        "minLength": 16,
-        "maxLength": 25,
-        "pattern": "([0-9]{5})_(([aA-zZ]{1}|[0-9]{1})[0-9]{3})_([0-9]{5})(_([a-z0-9]*))?(_[a-z0-9]*)?"
-      }
-    },
-    {
-      "name": "commune_insee",
-      "description": "code INSEE de la commune",
-      "type": "string",
-      "constraints": {
-        "required": true,
-        "minLength": 5,
-        "maxLength": 5,
-        "pattern": "[0-9]{5}"
-      }
-    },
-    {
-      "name": "commune_nom",
-      "type": "string",
-      "description": "nom de la commune",
-      "constraints": {
-        "required": true,
-        "minLength": 1,
-        "pattern": "((Paris|Lyon|Marseille) [1-9][0-9]?er? Arrondissement)|(([A-Za-zÀ-ÖØ-öø-ÿœŒâ' \\-\\(\\)]+))"
-      }
-    },
-    {
-      "name": "commune_deleguee_insee",
-      "description": "code INSEE de la commune déléguée",
-      "type": "string",
-      "constraints": {
-        "required": false,
-        "minLength": 5,
-        "maxLength": 5,
-        "pattern": "[0-9]{5}"
-      },
-      "missingValues": [""]
-    },
-    {
-      "name": "commune_deleguee_nom",
-      "description": "nom de la commune déléguée",
-      "type": "string",
-      "constraints": {
-        "required": false,
-        "minLength": 1,
-        "pattern": "((Paris|Lyon|Marseille) [1-9][0-9]?er? Arrondissement)|(([A-Za-zÀ-ÖØ-öø-ÿœŒâ' \\-\\(\\)]+))"
-      },
-       "missingValues": [""]
-    },
-    {
-      "name": "voie_nom",
-      "type": "string",
-      "description": "nom complet de la voie",
-      "constraints": {
-        "required": true,
-        "minLength": 3,
-        "pattern": "(([A-Za-z0-9À-ÖØ-öø-ÿœŒâÂîÎ' \\-\\.\\(\\)\\‘\\’\\/\"°,]+))"
-      }
-    },
-    {
-      "name": "lieudit_complement_nom",
-      "description": "nom du lieu-dit historique ou complémentaire",
-      "type": "string",
-       "constraints": {
-        "required": false,
-        "minLength": 5,
-        "pattern": "(([A-Za-z0-9À-ÖØ-öø-ÿœŒâÂîÎ' \\-\\.\\(\\)\\‘\\’\\/\"°,]+))"
-      },
-      "missingValues": [""]
-    },
-    {
-      "name": "numero",
-      "description": "numéro",
-      "type": "integer",
-      "constraints": {
-        "required": true,
-        "minimum": 1,
-        "maximum": 99999
-      }
-    },
-    {
-      "name": "suffixe",
-      "description": "informations qui complètent et précisent les numéros d’adresses",
-      "type": "string",
-      "constraints": {
-        "required": false
-      },
-      "missingValues": [""]
-    },
-    {
-      "name": "position",
-      "description": "décrit la position d’une adresse (liste de valeurs)",
-      "type": "string",
-      "constraints": {
-        "required": false,
-        "enum":["délivrance postale","entrée","bâtiment","cage d’escalier","logement","parcelle","segment","service technique"]
-      },
-      "missingValues": [""]
-    },
-    {
-      "name": "x",
-      "description": "système de projection légal en vigueur sur le territoire concerné",
-      "type": "string",
-      "constraints": {
-        "required": true,
-        "pattern": "-?[0-9]{1,7}.[0-9]{1,2}"
-      }
-    },
-    {
-      "name": "y",
-      "description": "système de projection légal en vigueur sur le territoire concerné",
-      "type": "string",
-      "constraints": {
-        "required": true,
-        "pattern": "-?[0-9]{1,7}.[0-9]{1,2}"
-      }
-    },
-    {
-      "name": "long",
-      "type": "string",
-      "description": "coordonnées exprimées en WGS84",
-      "constraints": {
-        "required": true,
-        "pattern": "-?[0-9]{1,2}.[0-9]{1,7}"
-      }
-    },
-    {
-      "name": "lat",
-      "description": "coordonnées exprimées en WGS84",
-      "type": "string",
-      "constraints": {
-        "required": true,
-        "pattern": "-?[0-9]{1,2}.[0-9]{1,7}"
-      }
-    },
-    {
-      "name": "cad_parcelles",
-      "description": "liste des parcelles, séparées par un pipe (|), desservies ou représentées par cette adresse",
-      "type": "string",
-      "constraints": {
-        "required": false,
-        "pattern": "([0-9]{9}[0-9A-Z]{2}[0-9]{4})(?:\\|([0-9]{9}[0-9A-Z]{2}[0-9]{4}))*"
-      },
-      "missingValues": [""]  
-    },
-    {
-      "name": "source",
-      "description": "organisme ayant créé cette adresse",
-      "type": "string",
-      "constraints": {
-        "required": true,
-        "minLength": 5
-      }
-    },
-    {
-      "name": "date_der_maj",
-      "description": "Date de la dernière mise à jour de la donnée au format AAAA-MM-JJ",
-      "type": "date",
-      "constraints": {
-        "required": true
-      }
-    },
-    {
-      "name": "certification_commune",
-      "description": "Certification communale",
-      "type": "boolean",
-      "constraints": {
-        "required": true
-      }
-    }
-  ]
+    "fields": [{
+            "name": "id_ban_commune",
+            "description": "identifiant unique de la commune fourni par la BAN",
+            "type": "string",
+            "format": "uuid",
+            "constraints": {
+                "required": false
+            },
+            "missingValues": [""]
+        }, {
+            "name": "id_ban_toponyme",
+            "description": "identifiant unique du toponyme auquel est rattaché l’adresse",
+            "type": "string",
+            "format": "uuid",
+            "constraints": {
+                "required": false
+            },
+            "missingValues": [""]
+        }, {
+            "name": "id_ban_adresse",
+            "description": "identifiant unique de l'adresse",
+            "type": "string",
+            "format": "uuid",
+            "constraints": {
+                "required": false
+            },
+            "missingValues": [""]
+        }, {
+            "name": "cle_interop",
+            "description": "clé nationale d’interopérabilité",
+            "type": "string",
+            "constraints": {
+                "required": true,
+                "minLength": 16,
+                "maxLength": 25,
+                "pattern": "([0-9]{5})_(([aA-zZ]{1}|[0-9]{1})[0-9]{3})_([0-9]{5})(_([a-z0-9]*))?(_[a-z0-9]*)?"
+            }
+        }, {
+            "name": "commune_insee",
+            "description": "code INSEE de la commune",
+            "type": "string",
+            "constraints": {
+                "required": true,
+                "minLength": 5,
+                "maxLength": 5,
+                "pattern": "[0-9]{5}"
+            }
+        }, {
+            "name": "commune_nom",
+            "type": "string",
+            "description": "nom de la commune",
+            "constraints": {
+                "required": true,
+                "minLength": 1,
+                "pattern": "((Paris|Lyon|Marseille) [1-9][0-9]?er? Arrondissement)|(([A-Za-zÀ-ÖØ-öø-ÿœŒâ' \\-\\(\\)]+))"
+            }
+        }, {
+            "name": "commune_deleguee_insee",
+            "description": "code INSEE de la commune déléguée",
+            "type": "string",
+            "constraints": {
+                "required": false,
+                "minLength": 5,
+                "maxLength": 5,
+                "pattern": "[0-9]{5}"
+            },
+            "missingValues": [""]
+        }, {
+            "name": "commune_deleguee_nom",
+            "description": "nom de la commune déléguée",
+            "type": "string",
+            "constraints": {
+                "required": false,
+                "minLength": 1,
+                "pattern": "((Paris|Lyon|Marseille) [1-9][0-9]?er? Arrondissement)|(([A-Za-zÀ-ÖØ-öø-ÿœŒâ' \\-\\(\\)]+))"
+            },
+            "missingValues": [""]
+        }, {
+            "name": "voie_nom",
+            "type": "string",
+            "description": "nom complet de la voie",
+            "constraints": {
+                "required": true,
+                "minLength": 3,
+                "pattern": "(([A-Za-z0-9À-ÖØ-öø-ÿœŒâÂîÎ' \\-\\.\\(\\)\\‘\\’\\/\"°,]+))"
+            }
+        }, {
+            "name": "lieudit_complement_nom",
+            "description": "nom du lieu-dit historique ou complémentaire",
+            "type": "string",
+            "constraints": {
+                "required": false,
+                "minLength": 5,
+                "pattern": "(([A-Za-z0-9À-ÖØ-öø-ÿœŒâÂîÎ' \\-\\.\\(\\)\\‘\\’\\/\"°,]+))"
+            },
+            "missingValues": [""]
+        }, {
+            "name": "numero",
+            "description": "numéro",
+            "type": "integer",
+            "constraints": {
+                "required": true,
+                "minimum": 1,
+                "maximum": 99999
+            }
+        }, {
+            "name": "suffixe",
+            "description": "informations qui complètent et précisent les numéros d’adresses",
+            "type": "string",
+            "constraints": {
+                "required": false
+            },
+            "missingValues": [""]
+        }, {
+            "name": "position",
+            "description": "décrit la position d’une adresse (liste de valeurs)",
+            "type": "string",
+            "constraints": {
+                "required": false,
+                "enum": ["délivrance postale", "entrée", "bâtiment", "cage d’escalier", "logement", "parcelle", "segment", "service technique"]
+            },
+            "missingValues": [""]
+        }, {
+            "name": "x",
+            "description": "système de projection légal en vigueur sur le territoire concerné",
+            "type": "string",
+            "constraints": {
+                "required": true,
+                "pattern": "-?[0-9]{1,7}.[0-9]{1,2}"
+            }
+        }, {
+            "name": "y",
+            "description": "système de projection légal en vigueur sur le territoire concerné",
+            "type": "string",
+            "constraints": {
+                "required": true,
+                "pattern": "-?[0-9]{1,7}.[0-9]{1,2}"
+            }
+        }, {
+            "name": "long",
+            "type": "string",
+            "description": "coordonnées exprimées en WGS84",
+            "constraints": {
+                "required": true,
+                "pattern": "-?[0-9]{1,2}.[0-9]{1,7}"
+            }
+        }, {
+            "name": "lat",
+            "description": "coordonnées exprimées en WGS84",
+            "type": "string",
+            "constraints": {
+                "required": true,
+                "pattern": "-?[0-9]{1,2}.[0-9]{1,7}"
+            }
+        }, {
+            "name": "cad_parcelles",
+            "description": "liste des parcelles, séparées par un pipe (|), desservies ou représentées par cette adresse",
+            "type": "string",
+            "constraints": {
+                "required": false,
+                "pattern": "([0-9]{9}[0-9A-Z]{2}[0-9]{4})(?:\\|([0-9]{9}[0-9A-Z]{2}[0-9]{4}))*"
+            },
+            "missingValues": [""]
+        }, {
+            "name": "source",
+            "description": "organisme ayant créé cette adresse",
+            "type": "string",
+            "constraints": {
+                "required": true,
+                "minLength": 5
+            }
+        }, {
+            "name": "date_der_maj",
+            "description": "Date de la dernière mise à jour de la donnée au format AAAA-MM-JJ",
+            "type": "date",
+            "constraints": {
+                "required": true
+            }
+        }, {
+            "name": "certification_commune",
+            "description": "Certification communale",
+            "type": "boolean",
+            "constraints": {
+                "required": true
+            }
+        }
+    ]
 }
- 
