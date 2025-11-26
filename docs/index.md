@@ -48,6 +48,12 @@ Télécharger les spécifications :
 - [spécifications BAL version 1.1](files/AITF_SIG_Topo_Format_Base_Adresse_Locale_v1.1.pdf) : obsolète
 
 
+Notices explicatives :
+
+- [version 1.5](https://github.com/aitf-sig-topo/voies-adresses/blob/master/schemas/v1.5/README.md)
+- [version 1.4](https://github.com/aitf-sig-topo/voies-adresses/blob/master/schemas/v1.4/README.md)
+
+
 
 ## <a name="carte-deploiement"></a> État du déploiement des Bases Adresses Locales
 
