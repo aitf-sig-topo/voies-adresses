@@ -41,7 +41,7 @@ Pour les communes qui ne sont pas prises en charge techniquement par un tiers (E
 
 Télécharger les spécifications :
 
-- [spécifications BAL version 1.5](files/AITF_SIG_Topo_Format_Base_Adresse_Locale_v1.5.pdf) : validé
+- [spécifications BAL version 1.5](files/AITF_SIG_Topo_Format_Base_Adresse_Locale_v1.5.pdf) : validé, en attente d'implémentation dans la BAN
 - [spécifications BAL version 1.4](files/AITF_SIG_Topo_Format_Base_Adresse_Locale_v1.4.pdf) : en vigueur
 - [spécifications BAL version 1.3](files/AITF_SIG_Topo_Format_Base_Adresse_Locale_v1.3.pdf) : obsolète
 - [spécifications BAL version 1.2](files/AITF_SIG_Topo_Format_Base_Adresse_Locale_v1.2.pdf) : obsolète
