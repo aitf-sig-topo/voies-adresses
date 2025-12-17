@@ -31,7 +31,7 @@
             "type": "string",
             "format": "uuid",
             "constraints": {
-                "required": false
+                "required": true
             },
             "missingValues": [""]
         }, {
@@ -40,7 +40,7 @@
             "type": "string",
             "format": "uuid",
             "constraints": {
-                "required": false
+                "required": true
             },
             "missingValues": [""]
         }, {
