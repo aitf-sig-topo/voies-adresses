@@ -1,8 +1,8 @@
 {
     "$schema": "https://specs.frictionlessdata.io/schemas/table-schema.json",
     "name": "base_adresse_locale",
-    "title": "Base Adresse Locale",
-    "description": "Spécification du fichier d'échange visant à diffuser des données voies-adresses locales",
+    "title": "Base Adresse Locale v1.4",
+    "description": "Spécification du fichier d'échange visant à diffuser des données voies-adresses locales v1.4",
     "keywords": [
         "adresse",
         "voie"
